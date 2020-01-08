@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clothing-store/static/css/main.93bca21c.chunk.css",
+    "main.js": "/clothing-store/static/js/main.dc876b9a.chunk.js",
+    "main.js.map": "/clothing-store/static/js/main.dc876b9a.chunk.js.map",
+    "runtime-main.js": "/clothing-store/static/js/runtime-main.dab3a11a.js",
+    "runtime-main.js.map": "/clothing-store/static/js/runtime-main.dab3a11a.js.map",
+    "static/js/2.7ced02db.chunk.js": "/clothing-store/static/js/2.7ced02db.chunk.js",
+    "static/js/2.7ced02db.chunk.js.map": "/clothing-store/static/js/2.7ced02db.chunk.js.map",
+    "index.html": "/clothing-store/index.html",
+    "precache-manifest.731c35e24d526218703a0d06eb2475af.js": "/clothing-store/precache-manifest.731c35e24d526218703a0d06eb2475af.js",
+    "service-worker.js": "/clothing-store/service-worker.js",
+    "static/css/main.93bca21c.chunk.css.map": "/clothing-store/static/css/main.93bca21c.chunk.css.map",
+    "static/js/2.7ced02db.chunk.js.LICENSE": "/clothing-store/static/js/2.7ced02db.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/clothing-store/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab3a11a.js",
+    "static/js/2.7ced02db.chunk.js",
+    "static/css/main.93bca21c.chunk.css",
+    "static/js/main.dc876b9a.chunk.js"
+  ]
+}
